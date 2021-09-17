@@ -1,3 +1,5 @@
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pkbl-aoiss)
+
 👍I am pkbl-aoiss!!! Call me "pk" or "aoi".
 
 ## info
